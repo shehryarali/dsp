@@ -2,6 +2,8 @@ import { NgModule, ErrorHandler } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
+import { HttpModule, Http } from '@angular/http';
+import { TranslateModule, TranslateLoader, TranslateStaticLoader } from 'ng2-translate';
 
 import { AboutPage } from '../pages/about/about';
 import { ContactPage } from '../pages/contact/contact';
@@ -21,6 +23,12 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   ],
   imports: [
     BrowserModule,
+    HttpModule,
+    TranslateModule.forRoot({
+        provide: TranslateLoader,
+        useFactory: (http: Http) => new TranslateStaticLoader(http, 'https://raw.githubusercontent.com/zendesklabs/show_email_app/master/translations', '.json'),
+        deps: [Http]
+    }),
     IonicModule.forRoot(MyApp)
   ],
   bootstrap: [IonicApp],
