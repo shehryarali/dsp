@@ -19,15 +19,11 @@
     }    
   },
   "SERVICE_1": {
-    {
         "HEADING" : "Services",
         "ICON": "clipboard"
-    }
   },
   "SERVICE_2":{
-    {
         "HEADING" : "Service Area",
         "ICON": "location"
-    }
   }
 }
