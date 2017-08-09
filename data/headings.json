@@ -1,0 +1,27 @@
+{
+  "TITLE": "Domestic Services Provider",
+  "TABS": [
+    {
+        "HEADING" : "Home",
+        "ICON": "home"
+    },
+    {
+        "HEADING" : "About",
+        "ICON": "information"
+    },
+    {
+        "HEADING" : "Contact",
+        "ICON": "contact"
+    }    
+  ],
+  "SERVICES": [
+    {
+        "HEADING" : "Services",
+        "ICON": "clipboard"
+    },
+    {
+        "HEADING" : "Service Area",
+        "ICON": "location"
+    }
+  ]
+}
