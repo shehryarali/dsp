@@ -1,16 +1,16 @@
 {
   "SLIDERS": [
       {
-          "URL" : "",
-          "TEXT" :""
+          "URL" : "http://www.menucool.com/slider/prod/image-slider-2.jpg",
+          "TEXT" :"Slider 1"
       },
       {
-          "URL" : "",
-          "TEXT" :""
+          "URL" : "https://www.jssor.com/img/home/02.jpg",
+          "TEXT" :"Slider 2"
       },
       {
-          "URL" : "",
-          "TEXT" :""
+          "URL" : "http://www.menucool.com/slider/prod/image-slider-5.jpg",
+          "TEXT" :"Slider 3"
       }                
   ]
 }
