@@ -24,6 +24,11 @@
   },
   "SERVICE_2":{
         "HEADING" : "Service Area",
-        "ICON": "location"
+        "ICON": "compass"
+  },
+  "HOME_CONTENT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Laining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "BOOK_NOW": {
+    "TITLE": "Book Now!",
+    "ICON" : "bookmark"
   }
 }
