@@ -126,7 +126,11 @@
       {
           "URL" : "http://www.menucool.com/slider/prod/image-slider-5.jpg",
           "TEXT" :"Slider 3"
-      }                
+      },
+      {
+          "URL" : "http://www.menucool.com/slider/prod/image-slider-1.jpg",
+          "TEXT" :"Slider 4"
+      }                 
     ]
 
   }
