@@ -1,5 +1,6 @@
 {
   "TITLE": "Domestic Services Provider",
+ 
   "TABS": 
   {
     "TAB_1": 
@@ -18,17 +19,115 @@
         "ICON": "contact"
     }    
   },
-  "SERVICE_1": {
+
+  "SERVICES": {
+ 
+    "MAID": {
+      "TITLE" : "Maid",
+      "DESCRIPTION": "MAIN DESCRIPTION",
+      "TYPES" : [
+        "House Cleaning",
+        "Cooking",
+        "Baby Sitting"
+      ]
+    },
+ 
+    "NURSES": {
+      "TITLE": "Nurses",
+      "DESCRIPTION": "NURSES DESCRIPTION",
+      "TYPES" : [
+        "Type 1",
+        "Type 2",
+        "Type 3"
+      ]
+    },
+ 
+    "DRIVERS": {
+      "TITLE": "Drivers",
+      "DESCRIPTION": "DRIVER DESCRIPTION",
+      "TYPES" : [
+        "Type 1",
+        "Type 2",
+        "Type 3"
+      ]
+    },
+ 
+    "SECURITY_GUARD": {
+      "TITLE": "Security Guards",
+      "DESCRIPTION": "SG DESCRIPTION",
+      "TYPES" : [
+        "Type 1",
+        "Type 2",
+        "Type 3"
+      ]
+    }
+
+  },
+
+  "SERVICE_AREA": [
+    "Garden (East & West)",
+    "PECHS",
+    "Bahadurabad",
+    "Clifton",
+    "Gulshan-e-Iqbal",
+    "Gulshan-e-Johr"
+  ],
+
+  "ABOUT_PAGE": {
+
+    "ABOUT_US": {
+      "TITLE": "asdasdad",
+      "DESCRIPTION": "asdasdsadsad"
+    },
+
+    "MISSION_VISION": {
+      "TITLE": "Mission & Vision",
+      "DESCRIPTION": "asdasdsadsad"
+    }
+
+  },
+
+  "CONTACT_PAGE" : {
+
+    "EMAIL_ADDRESS" : "",
+    "OFFICE_ADDRESS" : "",
+    "PHONE_NUMBER" : "+92333365555"
+  },
+
+
+  "HOME_PAGE": {
+    
+    "SERVICE_1": {
         "HEADING" : "Services",
         "ICON": "clipboard"
-  },
-  "SERVICE_2":{
-        "HEADING" : "Service Area",
-        "ICON": "compass"
-  },
-  "HOME_CONTENT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Laining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  "BOOK_NOW": {
-    "TITLE": "Book Now!",
-    "ICON" : "bookmark"
+    },
+    
+    "SERVICE_2":{
+          "HEADING" : "Service Area",
+          "ICON": "compass"
+    },
+    
+    "HOME_CONTENT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Laining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    
+    "BOOK_NOW": {
+      "TITLE": "Book Now!",
+      "ICON" : "bookmark"
+    },
+
+    "SLIDERS": [
+      {
+          "URL" : "http://www.menucool.com/slider/prod/image-slider-2.jpg",
+          "TEXT" :"Slider 1"
+      },
+      {
+          "URL" : "https://www.jssor.com/img/home/02.jpg",
+          "TEXT" :"Slider 2"
+      },
+      {
+          "URL" : "http://www.menucool.com/slider/prod/image-slider-5.jpg",
+          "TEXT" :"Slider 3"
+      }                
+    ]
+
   }
 }
