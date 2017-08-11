@@ -21,7 +21,8 @@
   },
 
   "SERVICES": {
- 
+    "TITLE" : "Services",
+    
     "MAID": {
       "TITLE" : "Maid",
       "DESCRIPTION": "MAIN DESCRIPTION",
@@ -64,14 +65,17 @@
 
   },
 
-  "SERVICE_AREA": [
-    "Garden (East & West)",
-    "PECHS",
-    "Bahadurabad",
-    "Clifton",
-    "Gulshan-e-Iqbal",
-    "Gulshan-e-Johr"
-  ],
+  "SERVICE_AREA": {
+    "TITLE" : "Service Areas",
+    "AREAS":[
+      "Garden (East & West)",
+      "PECHS",
+      "Bahadurabad",
+      "Clifton",
+      "Gulshan-e-Iqbal",
+      "Gulshan-e-Johr"
+    ] 
+  },
 
   "ABOUT_PAGE": {
 
