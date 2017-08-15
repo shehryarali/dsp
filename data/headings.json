@@ -29,7 +29,8 @@
       "TYPES" : [
         "House Cleaning",
         "Cooking",
-        "Baby Sitting"
+        "Baby Sitting",
+        
       ]
     },
  
@@ -37,9 +38,10 @@
       "TITLE": "Nurses",
       "DESCRIPTION": "NURSES DESCRIPTION",
       "TYPES" : [
-        "Type 1",
-        "Type 2",
-        "Type 3"
+        "Male"
+        "Female",
+        "Part-time",
+        "Full-time"
       ]
     },
  
@@ -47,8 +49,8 @@
       "TITLE": "Drivers",
       "DESCRIPTION": "DRIVER DESCRIPTION",
       "TYPES" : [
-        "Type 1",
-        "Type 2",
+        "Part-Time",
+        "Full-Time",
         "Type 3"
       ]
     },
@@ -57,8 +59,8 @@
       "TITLE": "Security Guards",
       "DESCRIPTION": "SG DESCRIPTION",
       "TYPES" : [
-        "Type 1",
-        "Type 2",
+        "Part-time",
+        "Full-time",
         "Type 3"
       ]
     }
@@ -73,7 +75,8 @@
       "Bahadurabad",
       "Clifton",
       "Gulshan-e-Iqbal",
-      "Gulshan-e-Johr"
+      "Gulshan-e-Johr",
+      "Malir"
     ] 
   },
 
@@ -81,12 +84,12 @@
     "TITLE" : "About",
     "ABOUT_US": {
       "TITLE": "Who we are?",
-      "DESCRIPTION": "We are DSP"
+      "DESCRIPTION": "We are fully dedicated to make sure that the requests of our clients will be carried out to the highest standards. Services provided by the company allow people to get rid of the burden of having to do all the household chores by themselves. We will recruit and select candidates; new and experienced. They will be given orientation and training to prepare them to suit the clients requirements. The services cover maids, nurses, drivers and security guards."
     },
 
     "MISSION_VISION": {
       "TITLE": "Our Mission & Vision",
-      "DESCRIPTION": "Well its something."
+      "DESCRIPTION": "Our Vision : To be the leading one-stop domestic services agency that provides customers with a comprehensive range of premium domestic solutions. our mission : We strive to deliver customized domestic solutions to our customers as per their unique needs. To provide a perfect fit domestic worker to our potential customers with creative solutions online as well as offline.  Build and maintain a motivated and quality trained team that is committed with high work ethos. Ensuring high returns and growth through providing high customer satisfaction while maintaining the highest level of integrity and ethical standards."
     }
 
   },
