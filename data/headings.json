@@ -78,24 +78,26 @@
   },
 
   "ABOUT_PAGE": {
-
+    "TITLE" : "About",
     "ABOUT_US": {
-      "TITLE": "asdasdad",
-      "DESCRIPTION": "asdasdsadsad"
+      "TITLE": "Who we are?",
+      "DESCRIPTION": "We are DSP"
     },
 
     "MISSION_VISION": {
-      "TITLE": "Mission & Vision",
-      "DESCRIPTION": "asdasdsadsad"
+      "TITLE": "Our Mission & Vision",
+      "DESCRIPTION": "Well its something."
     }
 
   },
 
   "CONTACT_PAGE" : {
-
-    "EMAIL_ADDRESS" : "",
-    "OFFICE_ADDRESS" : "",
-    "PHONE_NUMBER" : "+92333365555"
+    "TITLE" : "Contact",
+    "EMAIL_ADDRESS" : "emailus@dsp.com",
+    "OFFICE_ADDRESS" : "Somewhere between nowhere",
+    "PHONE_NUMBER" : "+92333365555",
+    "FACEBOOK": "",
+    "TWITTER" : ""
   },
 
 
