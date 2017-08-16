@@ -29,8 +29,7 @@
       "TYPES" : [
         "House Cleaning",
         "Cooking",
-        "Baby Sitting",
-        
+        "Baby Sitting"
       ]
     },
  
@@ -38,7 +37,7 @@
       "TITLE": "Nurses",
       "DESCRIPTION": "NURSES DESCRIPTION",
       "TYPES" : [
-        "Male"
+        "Male",
         "Female",
         "Part-time",
         "Full-time"
