@@ -28,7 +28,8 @@
       "DESCRIPTION": "MAIN DESCRIPTION",
       "TYPES" : [
         "House Cleaning",
-        "Cooking",
+        "Cooking & Dishwashing",
+        "Ironing & Clothes Washing",
         "Baby Sitting"
       ]
     },
@@ -38,9 +39,7 @@
       "DESCRIPTION": "NURSES DESCRIPTION",
       "TYPES" : [
         "Male",
-        "Female",
-        "Part-time",
-        "Full-time"
+        "Female"
       ]
     },
  
@@ -48,9 +47,6 @@
       "TITLE": "Drivers",
       "DESCRIPTION": "DRIVER DESCRIPTION",
       "TYPES" : [
-        "Part-Time",
-        "Full-Time",
-        "Type 3"
       ]
     },
  
@@ -58,9 +54,8 @@
       "TITLE": "Security Guards",
       "DESCRIPTION": "SG DESCRIPTION",
       "TYPES" : [
-        "Part-time",
-        "Full-time",
-        "Type 3"
+        "Armed",
+        "Unarmed"
       ]
     }
 
@@ -95,11 +90,11 @@
 
   "CONTACT_PAGE" : {
     "TITLE" : "Contact",
-    "EMAIL_ADDRESS" : "emailus@dsp.com",
-    "OFFICE_ADDRESS" : "Somewhere between nowhere",
-    "PHONE_NUMBER" : "+92333365555",
-    "FACEBOOK": "",
-    "TWITTER" : ""
+    "EMAIL_ADDRESS" : "support@dsp.com",
+    "OFFICE_ADDRESS" : "8th floor, Portway Trade Center, Plot # 189, Block-A, SMCHS, Shahreh-e-Faisal, Karachi ",
+    "PHONE_NUMBER" : "+923222518918",
+    "FACEBOOK": "dsp",
+    "TWITTER" : "dsp"
   },
 
 
@@ -115,7 +110,7 @@
           "ICON": "compass"
     },
     
-    "HOME_CONTENT": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Laining Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "HOME_CONTENT": "We strive to deliver customized domestic solutions to our customers as per their unique needs. To provide a perfect fit domestic worker to our potential customers with creative solutions online as well as offline.  Build and maintain a motivated and quality trained team that is committed with high work ethos. Ensuring high returns and growth through providing high customer satisfaction while maintaining the highest level of integrity and ethical standards.",
     
     "BOOK_NOW": {
       "TITLE": "Book Now!",
