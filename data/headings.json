@@ -124,19 +124,19 @@
 
     "SLIDERS": [
       {
-          "URL" : "http://www.menucool.com/slider/prod/image-slider-2.jpg",
+          "URL" : "http://www.multimaids.com/wp-content/uploads/2015/03/b1-slider.jpg",
           "TEXT" :"Slider 1"
       },
       {
-          "URL" : "https://www.jssor.com/img/home/02.jpg",
+          "URL" : "http://upartyvdrive.com/images/slider5.png",
           "TEXT" :"Slider 2"
       },
       {
-          "URL" : "http://www.menucool.com/slider/prod/image-slider-5.jpg",
+          "URL" : "http://www.aonelionsecurity.com/Aone/Slider/slide1.jpg",
           "TEXT" :"Slider 3"
       },
       {
-          "URL" : "http://www.menucool.com/slider/prod/image-slider-1.jpg",
+          "URL" : "http://www.hr-intl.com/img/ernie/slider1.jpg",
           "TEXT" :"Slider 4"
       }                 
     ]
